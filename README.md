@@ -7,4 +7,4 @@
 </div>
 
 <h3>My Expertise:</h3>
-<img: src"https://skillicons.dev/icons?i=py,ai,tensorflow,opencv,mysql,docker" alt= "My Expertise" />
+<img: src"https://skillicons.dev/icons?i=py,ai,tensorflow,opencv,mysql,docker">
